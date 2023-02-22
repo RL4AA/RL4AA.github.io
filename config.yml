@@ -12,6 +12,9 @@ params:
     - name: github
       url: https://github.com/RL4AA
 
+  cover:
+    linkFullImages: true
+
   env: production
   ShowBreadCrumbs: true
   ShowShareButtons: true
