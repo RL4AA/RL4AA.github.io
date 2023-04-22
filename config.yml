@@ -22,6 +22,9 @@ params:
   ShowCodeCopyButtons: true
   ShowWordCount: true
   author: ["RL4AA Collaboration"]
+  # defaultTheme: light
+  # defaultTheme: dark
+  defaultTheme: auto # to switch between dark or light according to browser theme
 
 menu: 
   main:
