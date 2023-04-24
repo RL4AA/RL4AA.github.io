@@ -3,6 +3,7 @@ title: "RL4AA'23: 1st Collaboration Workshop on Reinforcement Learning for Auton
 date: 2023-02-21
 draft: false
 tags: ["workshop","event"]
+categories: "Announcement"
 ShowToc: true
 TocOpen: false
 weight: 10

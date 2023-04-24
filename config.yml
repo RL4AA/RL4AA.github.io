@@ -28,18 +28,22 @@ params:
 
 menu: 
   main:
-    - identifier: categories
-      name: Categories
-      url: /categories/
+    - identifier: announcement
+      name: Announcement
+      url: /categories/announcement
       weight: 1
+    - identifier: publication
+      name: Publication
+      url: /categories/publication
+      weight: 2
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 2
+      weight: 3
     - identifier: archives
       name: Archive
       url: /archives/
-      weight: 3
+      weight: 4
     - identifier: search
       name: Search
       url: /search/
