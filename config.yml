@@ -40,3 +40,11 @@ menu:
       name: Archive
       url: /archives/
       weight: 3
+    - identifier: search
+      name: Search
+      url: /search/
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
