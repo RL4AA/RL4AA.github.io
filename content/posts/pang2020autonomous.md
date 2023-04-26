@@ -14,7 +14,7 @@ cover:
     relative: false
 ---
 
-_**Xiaoying Pang, Sunil Thulasidasan, Larry Rybarcyk**._ Apple, Los Alamos National Laboratory. _Machine Learning for Engineering Modeling, Simulation, and Design Workshop at Neural Information Processing Systems 2020._
+_**X. Pang, S. Thulasidasan, L. Rybarcyk**._ Apple, Los Alamos National Laboratory. _Machine Learning for Engineering Modeling, Simulation, and Design Workshop at Neural Information Processing Systems 2020._
 
 ## Abstract
 

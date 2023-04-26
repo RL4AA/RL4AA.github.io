@@ -14,7 +14,7 @@ cover:
     relative: false
 ---
 
-_**Niky Bruchon, Gianfranco Fenu, Giulio Gaio, Marco Lonza, Finn Henry O’Shea, Felice Andrea Pellegrino, Erica Salvato**._ University of Trieste, Elettra Sincrotrone Trieste. _Electronics._
+_**N. Bruchon, G. Fenu, G. Gaio, M. Lonza, F. H. O’Shea, F. A. Pellegrino, E. Salvato**._ University of Trieste, Elettra Sincrotrone Trieste. _Electronics._
 
 ## Abstract
 

@@ -14,7 +14,7 @@ cover:
     relative: false
 ---
 
-_**Verena Kain, Simon Hirlander, Brennan Goddard, Francesco Maria Velotti, Giovanni Zevi Della Porta, Niky Bruchon, and Gianluca Valentino**._ CERN, University of Trieste, University of Malta. _Physical Review Accelerators and Beams._
+_**V. Kain, S. Hirlander, B. Goddard, F. M. Velotti, G. Z. Della Porta, N. Bruchon, G. Valentino**._ CERN, University of Trieste, University of Malta. _Physical Review Accelerators and Beams._
 
 ## Abstract
 

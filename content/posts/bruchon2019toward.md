@@ -14,7 +14,7 @@ cover:
     relative: false
 ---
 
-_**Niky Bruchon, Gianfranco Fenu, Giulio Gaio, Marco Lonza, Felice Andrea Pellegrino, Erica Salvato**._ University of Trieste. _23rd International Conference on Mechatronics Technology._
+_**N. Bruchon, G. Fenu, G. Gaio, M. Lonza, F. A. Pellegrino, E. Salvato**._ University of Trieste. _23rd International Conference on Mechatronics Technology._
 
 ## Abstract
 

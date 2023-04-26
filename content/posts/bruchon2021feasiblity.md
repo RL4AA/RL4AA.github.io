@@ -14,7 +14,7 @@ cover:
     relative: false
 ---
 
-_**Niky Bruchon**._ University of Trieste. _PhD thesis._
+_**N. Bruchon**._ University of Trieste. _PhD thesis._
 
 ## Abstract
 
