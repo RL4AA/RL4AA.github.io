@@ -9,8 +9,8 @@ TocOpen: false
 weight: 10
 cover:
     image: imgs/kaiser2022learningbased.png
-    alt: "Reinforcement learning loop for the ARES experimental area"
-    caption: "Reinforcement learning loop for the ARES experimental area"
+    alt: "Reinforcement learning loop for the ARES experimental area."
+    caption: "Reinforcement learning loop for the ARES experimental area."
     relative: false
 ---
 
