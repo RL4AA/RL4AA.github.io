@@ -28,13 +28,13 @@ params:
 
 menu: 
   main:
-    - identifier: announcement
-      name: Announcement
-      url: /categories/announcement
+    - identifier: announcements
+      name: Announcements
+      url: /categories/announcements
       weight: 1
-    - identifier: foobar
-      name: Foobar
-      url: /categories/foobar
+    - identifier: publications
+      name: Publications
+      url: /categories/publications
       weight: 2
     - identifier: tags
       name: Tags
