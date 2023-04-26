@@ -8,7 +8,7 @@ ShowToc: false
 TocOpen: false
 weight: 10
 cover:
-    image: imgs/salzburg_stock_photo.jpeg
+    image: imgs/salzburg_stock_photo.jpg
     alt: "Salzburg."
     caption: "Salzburg."
     relative: false
