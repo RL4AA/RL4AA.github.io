@@ -2,7 +2,7 @@
 title: "RL4AA'23: 1st Collaboration Workshop on Reinforcement Learning for Autonomous Accelerators"
 date: 2023-02-21
 draft: false
-tags: ["workshop", "event"]
+tags: ["workshop", "event", "kit"]
 categories: "Announcements"
 ShowToc: true
 TocOpen: false
