@@ -32,9 +32,9 @@ menu:
       name: Announcement
       url: /categories/announcement
       weight: 1
-    - identifier: publication
-      name: Publication
-      url: /categories/publication
+    - identifier: foobar
+      name: Foobar
+      url: /categories/foobar
       weight: 2
     - identifier: tags
       name: Tags
@@ -47,6 +47,7 @@ menu:
     - identifier: search
       name: Search
       url: /search/
+
 outputs:
     home:
         - HTML
