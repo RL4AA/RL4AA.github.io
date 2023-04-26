@@ -3,7 +3,7 @@ title: "Learning-based Optimisation of Particle Accelerators Under Partial Obser
 date: 2022-07-22
 draft: false
 tags: ["publication", "conference paper", "optimizer learning"]
-categories: "Announcement"
+categories: "Publication"
 ShowToc: false
 TocOpen: false
 weight: 10
