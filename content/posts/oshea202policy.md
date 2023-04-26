@@ -8,7 +8,7 @@ ShowToc: false
 TocOpen: false
 weight: 10
 cover:
-    image: imgs/oshea202policy.png
+    image: imgs/oshea2020policy.png
     alt: "Plot of the reward received by the agent versus step number."
     caption: "Plot of the reward received by the agent versus step number."
     relative: false
