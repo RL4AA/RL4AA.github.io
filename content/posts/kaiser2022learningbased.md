@@ -14,9 +14,7 @@ cover:
     relative: false
 ---
 
-_**Jan Kaiser, Oliver Stein, Annika Eichler**_ Deutsches Elektronen-Synchrotron DESY
-
-_Proceedings of the 39th International Conference on Machine Learning_
+_**Jan Kaiser, Oliver Stein, Annika Eichler**._ Deutsches Elektronen-Synchrotron DESY. _39th International Conference on Machine Learning._
 
 ## Abstract
 
