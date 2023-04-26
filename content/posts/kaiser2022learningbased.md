@@ -2,7 +2,7 @@
 title: "Learning-based Optimisation of Particle Accelerators Under Partial Observability Without Real-World Training"
 date: 2022-07-22
 draft: false
-tags: ["publication", "conference paper", "optimizer learning", "desy"]
+tags: ["publication", "conference proceedings", "optimizer learning", "desy"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
