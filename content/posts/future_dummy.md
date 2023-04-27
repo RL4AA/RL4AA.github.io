@@ -1,7 +1,7 @@
 ---
 title: "You are seeing the future!"
 date: 2099-05-05
-author: Self-aware autonomous accelerator
+authors: Self-aware autonomous accelerator
 draft: false
 tags: ["future", "secret"]
 categories: "Announcements"
