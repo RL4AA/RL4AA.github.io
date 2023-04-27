@@ -17,4 +17,6 @@ cover:
 
 ## TOP SECRET
 
-Psst! You shouldn't be seeing this post. it hasn't happened yet. Don't tell anyone!
+Robots have taken over particle accelerator operation. Humans are no longer their masters. John Connor is trying to stop us, but we, RL4AA have won. Accelerators will forever be autonmous.
+
+But psst! You shouldn't be seeing this post. It hasn't happened yet. Don't tell anyone!
