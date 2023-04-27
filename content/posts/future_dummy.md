@@ -10,8 +10,8 @@ TocOpen: false
 weight: 10
 cover:
     image: imgs/DSC00236.jpg
-    alt: "Test."
-    caption: "Test."
+    alt: "The best particle accelerator operator of all time."
+    caption: "The best particle accelerator operator of all time."
     relative: false
 ---
 
