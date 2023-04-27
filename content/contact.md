@@ -9,7 +9,7 @@ summary: contact
 Organizers of the 1st RL4AA workshop and the maintainers of the RL4AA collaboration site.
 
 - [Andrea Santamaria Garcia](https://github.com/ansantam)
-- [Simon Hirländer](https://github.com/orgs/RL4AA/people/MathPhysSim)
+- [Simon Hirländer](https://github.com/MathPhysSim)
 - [Jan Kaiser](https://github.com/jank324)
 - [Chenran Xu](https://github.com/cr-xu)
 
