@@ -4,7 +4,7 @@ date: 2023-02-21
 draft: false
 tags: ["workshop", "event", "kit"]
 categories: "Announcements"
-ShowToc: true
+ShowToc: false
 TocOpen: false
 weight: 10
 cover:
