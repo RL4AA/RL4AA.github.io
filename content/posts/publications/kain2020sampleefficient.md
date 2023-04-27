@@ -6,7 +6,6 @@ tags: ["publication", "journal article", "cern"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
-weight: 10
 cover:
     image: imgs/kain2020sampleefficient.png
     alt: "The RL paradigm as applied to particle accelerator control, showing the example of trajectory correction."

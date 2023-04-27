@@ -6,7 +6,6 @@ tags: ["publication", "journal article", "fermilab"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
-weight: 10
 cover:
     image: imgs/stjohn2021realtime.png
     alt: "Schematic view of the GMPS control environment."

@@ -6,7 +6,6 @@ tags: ["publication", "journal article"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
-weight: 10
 cover:
     image: imgs/bruchon2020basic.png
     alt: "Simple scheme of the FERMI FEL seed laser alignment set up."

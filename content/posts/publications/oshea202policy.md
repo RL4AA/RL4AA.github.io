@@ -6,7 +6,6 @@ tags: ["publication", "journal article"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
-weight: 10
 cover:
     image: imgs/oshea2020policy.png
     alt: "Plot of the reward received by the agent versus step number."

@@ -6,7 +6,6 @@ tags: ["publication", "conference proceedings", "desy"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
-weight: 10
 cover:
     image: imgs/ivanov2021physicsenhanced.png
     alt: "Reinforcement learning agent joint with the physics-based polynomial neural network."

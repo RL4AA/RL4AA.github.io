@@ -6,7 +6,6 @@ tags: ["publication", "workshop proceedings"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
-weight: 10
 cover:
     image: imgs/pang2020autonomous.png
     alt: "Policy network maps states to actions."

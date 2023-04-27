@@ -6,7 +6,6 @@ tags: ["publication", "preprint"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
-weight: 10
 cover:
     image: imgs/hirlaender2020modelfree.png
     alt: "A schematic overview of theAE-DYNAapproach used in this paper."

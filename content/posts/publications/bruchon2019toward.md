@@ -6,7 +6,6 @@ tags: ["publication", "conference proceedings"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
-weight: 10
 cover:
     image: imgs/bruchon2019toward.png
     alt: "Simple scheme of the EOS laser alignment set up."

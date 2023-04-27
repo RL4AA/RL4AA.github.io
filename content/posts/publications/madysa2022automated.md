@@ -6,7 +6,6 @@ tags: ["publication", "conference proceedings", "cern"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
-weight: 10
 cover:
     image: imgs/madysa2022automated.png
     alt: "Success rate of the various algorithms over initial beam intensity."

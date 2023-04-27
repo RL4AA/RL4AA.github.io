@@ -6,7 +6,6 @@ tags: ["publication", "conference proceedings", "optimizer learning", "desy", "a
 categories: "Publications"
 ShowToc: false
 TocOpen: false
-weight: 10
 cover:
     image: imgs/kaiser2022learningbased.png
     alt: "Reinforcement learning loop for the ARES experimental area."

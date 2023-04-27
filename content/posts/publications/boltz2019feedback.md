@@ -6,7 +6,6 @@ tags: ["publication", "conference proceedings", "kit", "kara"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
-weight: 10
 cover:
     image: imgs/boltz2019feedback.png
     alt: "General feedback scheme using the CSR powersignal to construct both, the state and reward signal of the Markov decision process (MDP)."

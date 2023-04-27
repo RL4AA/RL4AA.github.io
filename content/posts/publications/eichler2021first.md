@@ -6,7 +6,6 @@ tags: ["publication", "conference proceedings"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
-weight: 10
 cover:
     image: imgs/eichler2021first.png
     alt: "RL environment for beam optimisation in theARES EA."
