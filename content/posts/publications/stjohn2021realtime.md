@@ -13,7 +13,11 @@ cover:
     relative: false
 ---
 
-_**J. St. John, C. Herwig, D. Kafkes, J. Mitrevski, W. A. Pellico, G. N. Perdue, A. Quintero-Parra, B. A. Schupbach, K. Seiya, N. Tran, M. Schram, J. M. Duarte, Y. Huang, R. Keller**._ Fermi National Accelerator Laboratory, Thomas Jefferson National Accelerator Laboratory, University of California San Diego, Pacific Northwest National Laboratory, Columbia University. _Physical Review Accelerators and Beams._
+_**J. St. John<sup>1</sup>, C. Herwig<sup>1</sup>, D. Kafkes<sup>1</sup>, J. Mitrevski<sup>1</sup>, W. A. Pellico<sup>1</sup>, G. N. Perdue<sup>1</sup>, A. Quintero-Parra<sup>1</sup>, B. A. Schupbach<sup>1</sup>, K. Seiya<sup>1</sup>, N. Tran<sup>1</sup>, M. Schram<sup>2</sup>, J. M. Duarte<sup>3</sup>, Y. Huang<sup>4</sup>, R. Keller<sup>5</sup>**_
+
+<sup>1</sup>Fermi National Accelerator Laboratory, <sup>2</sup>Thomas Jefferson National Accelerator Laboratory, <sup>3</sup>University of California San Diego, <sup>4</sup>Pacific Northwest National Laboratory, <sup>5</sup>Columbia University
+
+_Physical Review Accelerators and Beams_
 
 ## Abstract
 

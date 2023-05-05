@@ -13,7 +13,11 @@ cover:
     relative: false
 ---
 
-_**N. Madysa, V. Kain, R. Alemany Fernandez, N. Biancacci, B. Goddard, F. M. Velotti**._ CERN. _13th Particle Accelerator Conference._
+_**N. Madysa, V. Kain, R. Alemany Fernandez, N. Biancacci, B. Goddard, F. M. Velotti**_
+
+CERN
+
+_13th Particle Accelerator Conference_
 
 ## Abstract
 

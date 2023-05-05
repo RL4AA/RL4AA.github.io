@@ -13,7 +13,11 @@ cover:
     relative: false
 ---
 
-_**A. Ivanov, I. Agapov, A. Eichler, S. Tomin**._ Deutsches Elektronen Synchrotron DESY. _12th International Particle Accelerator Conference._
+_**A. Ivanov, I. Agapov, A. Eichler, S. Tomin**_
+
+Deutsches Elektronen Synchrotron DESY
+
+_12th International Particle Accelerator Conference_
 
 ## Abstract
 

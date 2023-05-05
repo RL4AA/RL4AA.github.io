@@ -13,7 +13,11 @@ cover:
     relative: false
 ---
 
-_**J. Kaiser, O. Stein, A. Eichler**._ Deutsches Elektronen-Synchrotron DESY. _39th International Conference on Machine Learning._
+_**J. Kaiser, O. Stein, A. Eichler**_
+
+Deutsches Elektronen-Synchrotron DESY
+
+_39th International Conference on Machine Learning_
 
 ## Abstract
 

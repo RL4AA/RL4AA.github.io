@@ -13,7 +13,11 @@ cover:
     relative: false
 ---
 
-_**A. Eichler, F. Burkart, J. Kaiser, W. Kuropka, O. Stein, E. Bründermann, A. Santamaria Garcia, C. Xu**._ Deutsches Elektronen-Synchrotron DESY, Karlsruhe Institute of Technology KIT. _12th International Particle Accelerator Conference._
+_**A. Eichler<sup>1</sup>, F. Burkart<sup>1</sup>, J. Kaiser<sup>1</sup>, W. Kuropka<sup>1</sup>, O. Stein<sup>1</sup>, E. Bründermann<sup>2</sup>, A. Santamaria Garcia<sup>2</sup>, C. Xu<sup>2</sup>**_
+
+<sup>1</sup>Deutsches Elektronen-Synchrotron DESY, <sup>2</sup>Karlsruhe Institute of Technology KIT
+
+_12th International Particle Accelerator Conference_
 
 ## Abstract
 

@@ -13,19 +13,11 @@ cover:
     relative: false
 ---
 
-_**A. L. Edelen, S. G. Biedron J. P. Edelen, S. V. Milton, P. J. M. van der Slot**._
+_**A. L. Edelen<sup>1</sup>, S. G. Biedron<sup>2</sup>, J. P. Edelen<sup>3</sup>, S. V. Milton<sup>4</sup>, P. J. M. van der Slot<sup>5</sup>**_
 
-Colorado State University
+<sup>1</sup>Colorado State University, <sup>2</sup>Element Aero, <sup>3</sup>Fermi National Accelerator Laboratory, <sup>4</sup>Los Alamos National Laboratory, <sup>5</sup>University of Twente
 
-Element Aero
-
-Fermi National Accelerator Laboratory
-
-Los Alamos National Laboratory
-
-University of Twente
-
-_38th International Free Electron Laser Conference._
+_38th International Free Electron Laser Conference_
 
 ## Abstract
 

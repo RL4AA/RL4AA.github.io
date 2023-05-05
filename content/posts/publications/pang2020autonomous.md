@@ -13,7 +13,11 @@ cover:
     relative: false
 ---
 
-_**X. Pang, S. Thulasidasan, L. Rybarcyk**._ Apple, Los Alamos National Laboratory. _Machine Learning for Engineering Modeling, Simulation, and Design Workshop at Neural Information Processing Systems 2020._
+_**X. Pang<sup>1</sup>, S. Thulasidasan<sup>2</sup>, L. Rybarcyk<sup>2</sup>**_
+
+<sup>1</sup>Apple, <sup>2</sup>Los Alamos National Laboratory
+
+_Machine Learning for Engineering Modeling, Simulation, and Design Workshop at Neural Information Processing Systems 2020_
 
 ## Abstract
 

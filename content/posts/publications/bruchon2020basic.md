@@ -13,7 +13,11 @@ cover:
     relative: false
 ---
 
-_**N. Bruchon, G. Fenu, G. Gaio, M. Lonza, F. H. O’Shea, F. A. Pellegrino, E. Salvato**._ University of Trieste, Elettra Sincrotrone Trieste. _Electronics._
+_**N. Bruchon<sup>1</sup>, G. Fenu<sup>1</sup>, G. Gaio<sup>2</sup>, M. Lonza<sup>2</sup>, F. H. O’Shea<sup>2</sup>, F. A. Pellegrino<sup>1</sup>, E. Salvato<sup>1</sup>**_
+
+<sup>1</sup>University of Trieste, <sup>2</sup>Elettra Sincrotrone Trieste
+
+_Electronics_
 
 ## Abstract
 

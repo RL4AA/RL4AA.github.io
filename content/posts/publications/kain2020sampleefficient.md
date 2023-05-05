@@ -13,7 +13,11 @@ cover:
     relative: false
 ---
 
-_**V. Kain, S. Hirlander, B. Goddard, F. M. Velotti, G. Z. Della Porta, N. Bruchon, G. Valentino**._ CERN, University of Trieste, University of Malta. _Physical Review Accelerators and Beams._
+_**V. Kain<sup>1</sup>, S. Hirlander<sup>1</sup>, B. Goddard<sup>1</sup>, F. M. Velotti<sup>1</sup>, G. Z. Della Porta<sup>1</sup>, N. Bruchon<sup>2</sup>, G. Valentino<sup>3</sup>**_
+
+<sup>1</sup>CERN, <sup>2</sup>University of Trieste, <sup>3</sup>University of Malta
+
+_Physical Review Accelerators and Beams_
 
 ## Abstract
 

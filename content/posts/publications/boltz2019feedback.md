@@ -13,7 +13,11 @@ cover:
     relative: false
 ---
 
-_**T. Boltz, M. Brosi, E. Bründermann, B. Haerer, P. Kaiser, C. Pohl, P. Schreiber, M. Yan,T. Asfour, A.-S. Müller**._ Karlsruhe Insitute of Technology KIT. _10th International Particle Accelerator Conference._
+_**T. Boltz, M. Brosi, E. Bründermann, B. Haerer, P. Kaiser, C. Pohl, P. Schreiber, M. Yan,T. Asfour, A.-S. Müller**_
+
+Karlsruhe Insitute of Technology KIT
+
+_10th International Particle Accelerator Conference_
 
 ## Abstract
 

@@ -13,12 +13,11 @@ cover:
     relative: false
 ---
 
-_**Xiaolong Chen, Yongzhi Jia, Xin Qi, Zhijun Wang, and Yuan He**._
+_**X. Chen, Y. Jia, X. Qi, Z. Wang, Y. He**_
 
-Institute of Modern Physics, Chinese Academy of Sciences, Lanzhou 730000, People’s Republic of China
+Chinese Academy of Sciences
 
-School of Nuclear Science and Technology, University of Chinese Academy of Sciences, Beijing 100049, People’s Republic of China
-_Physical Review Accelerators and Beams._
+_Physical Review Accelerators and Beams_
 
 ## Abstract
 

@@ -13,7 +13,11 @@ cover:
     relative: false
 ---
 
-_**S. Hirlaender, N. Bruchon**._ University of Salzburg, University of Trieste. _arXiv._
+_**S. Hirlaender, N. Bruchon**_
+
+University of Salzburg, University of Trieste
+
+_arXiv_
 
 ## Abstract
 

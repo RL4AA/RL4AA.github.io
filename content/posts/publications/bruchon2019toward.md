@@ -13,7 +13,11 @@ cover:
     relative: false
 ---
 
-_**N. Bruchon, G. Fenu, G. Gaio, M. Lonza, F. A. Pellegrino, E. Salvato**._ University of Trieste. _23rd International Conference on Mechatronics Technology._
+_**N. Bruchon, G. Fenu, G. Gaio, M. Lonza, F. A. Pellegrino, E. Salvato**_
+
+University of Trieste
+
+_23rd International Conference on Mechatronics Technology_
 
 ## Abstract
 

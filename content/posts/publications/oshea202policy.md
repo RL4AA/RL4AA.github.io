@@ -13,7 +13,11 @@ cover:
     relative: false
 ---
 
-_**F. H. O'Shea, N. Bruchon, G. Gaio**._ Elettra Sincrotrone Trieste, University of Trieste. _Physical Review Accelerators and Beams._
+_**F. H. O'Shea<sup>1</sup>, N. Bruchon<sup>2</sup>, G. Gaio<sup>1</sup>**_
+
+<sup>1</sup>Elettra Sincrotrone Trieste, <sup>2</sup>University of Trieste
+
+_Physical Review Accelerators and Beams_
 
 ## Abstract
 
