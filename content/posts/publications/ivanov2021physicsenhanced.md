@@ -21,7 +21,7 @@ _12th International Particle Accelerator Conference_
 
 ## Abstract
 
-We propose an approach for incorporating acceleratorphysics models into reinforcement learning agents. The pro-posed approach is based on the Taylor mapping technique forthe simulation of particle dynamics. The resulting computa-tional graph is represented as a polynomial neural networkand embedded into the traditional reinforcement learningagents. The application of the model is demonstrated ina nonlinear simulation model of beam transmission. Thecomparison of the approach with the traditional numericaloptimization as well as neural networks-based agents demon-strates better convergence of the proposed technique.
+We propose an approach for incorporating acceleratorphysics models into reinforcement learning agents. The proposed approach is based on the Taylor mapping technique for the simulation of particle dynamics. The resulting computational graph is represented as a polynomial neural network and embedded into the traditional reinforcement learning agents. The application of the model is demonstrated in a nonlinear simulation model of beam transmission. The comparison of the approach with the traditional numerical optimization as well as neural networks-based agents demonstrates better convergence of the proposed technique.
 
 **Read the paper:** [https://jacow.org/ipac2021/papers/thpab191.pdf](https://jacow.org/ipac2021/papers/thpab191.pdf)
 
