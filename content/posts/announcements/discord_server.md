@@ -8,7 +8,7 @@ ShowToc: false
 TocOpen: false
 weight: 10
 cover:
-    image: imgs/discord_logo.jpg
+    image: imgs/discord_logo.png
     alt: "Discord logo."
     caption: "Discord logo."
     relative: false
