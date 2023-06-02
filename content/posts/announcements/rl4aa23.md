@@ -6,7 +6,6 @@ tags: ["workshop", "event", "kit"]
 categories: "Announcements"
 ShowToc: false
 TocOpen: false
-weight: 10
 cover:
     image: imgs/rl4aa23/rl4aa23_group_photo.jpeg
     alt: "RL4AA23workshop photo"
