@@ -10,7 +10,7 @@ weight: 10
 cover:
     image: imgs/discord_logo.png
     alt: "Discord logo."
-    caption: "Discord logo."
+    caption: ""
     relative: false
 ---
 
