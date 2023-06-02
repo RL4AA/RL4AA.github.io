@@ -23,6 +23,8 @@ params:
   SocialIcons:
     - name: github
       url: https://github.com/RL4AA
+    - name: discord
+      url: https://discord.gg/QtBMqsjWH2
 
   cover:
     linkFullImages: true
