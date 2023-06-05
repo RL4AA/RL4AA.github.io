@@ -40,6 +40,7 @@ params:
   # defaultTheme: dark
   defaultTheme: auto # to switch between dark or light according to browser theme
   description: "Reinforcement Learning for Autonomous Accelerator Collaboration - https://github.com/RL4AA"
+  googleAnalytics: "G-B7HRFWK04B"
 
 menu: 
   main:
