@@ -2,7 +2,7 @@
 title: "Trend-Based SAC Beam Control Method with Zero-Shot in Superconducting Linear Accelerator"
 date: 2023-05-23
 draft: false
-tags: ["publication", "arXiv", "CAFe"]
+tags: ["publication", "arXiv", "CAFe II", "LPI"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

@@ -2,7 +2,7 @@
 title: "Basic Reinforcement Learning Techniques to Control the Intensity of a Seeded Free-Electron Laser"
 date: 2020-05-09
 draft: false
-tags: ["publication", "journal article"]
+tags: ["publication", "journal article", "fermi fel", "University of Trieste", "Elettra Sincrotrone Trieste", "electronics"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

@@ -2,7 +2,7 @@
 title: "Feedback Design for Control of the Micro-Bunching Instability Based on Reinforcement Learning"
 date: 2019-05-19
 draft: false
-tags: ["publication", "conference proceedings", "kit", "kara"]
+tags: ["publication", "conference proceedings", "kit", "kara", "ipac"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

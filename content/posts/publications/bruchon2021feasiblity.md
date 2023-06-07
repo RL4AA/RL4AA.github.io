@@ -2,7 +2,7 @@
 title: "Feasibility Investigation on Several Reinforcement Learning Techniques to Improve the Performance of the FERMI Free-Electron Laser"
 date: 2021-03-18
 draft: false
-tags: ["publication", "phd thesis"]
+tags: ["publication", "phd thesis", "University of Trieste"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

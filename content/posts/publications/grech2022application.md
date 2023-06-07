@@ -2,7 +2,7 @@
 title: "Application of reinforcement learning in the LHC tune feedback"
 date: 2022-09-07
 draft: false
-tags: ["publication", "journal article"]
+tags: ["publication", "journal article", "cern", "lhc", "university of malta", "cern", "University of Salzburg", "frontiers in phyiscs"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

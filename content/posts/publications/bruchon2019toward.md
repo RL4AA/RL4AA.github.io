@@ -2,7 +2,7 @@
 title: "Toward the Application of Reinforcement Learning to the Intensity Control of a Seeded Free-Electron Laser"
 date: 2019-10-23
 draft: false
-tags: ["publication", "conference proceedings"]
+tags: ["publication", "conference proceedings", "University of Trieste", "Elettra Sincrotrone Trieste", "icmt"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

@@ -2,7 +2,7 @@
 title: "Model-free and Bayesian Ensembling Model-based Deep Reinforcement Learning for Particle Accelerator Control Demonstrated on the FERMI FEL"
 date: 2020-12-17
 draft: false
-tags: ["publication", "preprint"]
+tags: ["publication", "preprint", "fermi fel", "elettra-sincrotrone trieste", "University of Salzburg", "University of Trieste"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
@@ -13,9 +13,9 @@ cover:
     relative: false
 ---
 
-_**S. Hirlaender, N. Bruchon**_
+_**S. Hirlaender<sup>1</sup>, N. Bruchon<sup>2</sup>**_
 
-University of Salzburg, University of Trieste
+<sup>1</sup>University of Salzburg, <sup>2</sup>University of Trieste
 
 _arXiv_
 

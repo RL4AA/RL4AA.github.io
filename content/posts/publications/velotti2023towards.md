@@ -2,7 +2,7 @@
 title: "Towards automatic setup of 18 MeV electron beamline using machine learning"
 date: 2023-04-27
 draft: false
-tags: ["publication", "journal article"]
+tags: ["publication", "journal article", "awake", "cern", "University of Salzburg", "machine learning science and technology"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

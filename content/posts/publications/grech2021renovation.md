@@ -2,7 +2,7 @@
 title: "Renovation of the beam-based feedback systems in the LHC"
 date: 2021-09-01
 draft: false
-tags: ["publication", "phd thesis"]
+tags: ["publication", "phd thesis", "lhc", "University of Malta"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

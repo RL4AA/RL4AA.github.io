@@ -2,7 +2,7 @@
 title: "Real-time artificial intelligence for accelerator control: A study at the Fermilab Booster"
 date: 2021-10-18
 draft: false
-tags: ["publication", "journal article", "fermilab"]
+tags: ["publication", "journal article", "fermilab", "fermilab booster", "fermilab", "tjnal", "University of California San Diego", "Pacific Northwest National Laboratory", "Columbia University", "prab"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

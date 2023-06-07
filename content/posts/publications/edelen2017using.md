@@ -2,7 +2,7 @@
 title: "Using a neural network control policy for rapid switching between beam parameters in an FEL"
 date: 2017-08-25
 draft: false
-tags: ["publication", "conference proceedings", "surrogate model"]
+tags: ["publication", "conference proceedings", "surrogate model", "Colorado State University", "Element Aero", "Fermilab", "LANL", "University of Twente", "ifelc"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

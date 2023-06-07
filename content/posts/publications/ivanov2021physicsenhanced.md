@@ -2,7 +2,7 @@
 title: "Physics-Enhanced Reinforcement Learning for Optimal Control"
 date: 2021-05-21
 draft: false
-tags: ["publication", "conference proceedings", "desy"]
+tags: ["publication", "conference proceedings", "desy", "ipac"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

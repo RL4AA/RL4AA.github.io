@@ -2,7 +2,7 @@
 title: "Test of Machine Learning at the CERN LINAC4"
 date: 2021-10-04
 draft: false
-tags: ["publication", "conference proceedings"]
+tags: ["publication", "conference proceedings", "cern", "linac4", "University of Malta", "icfa abdw hihbhb"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

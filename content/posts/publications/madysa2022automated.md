@@ -2,7 +2,7 @@
 title: "Automated Intensity Optimisation Using Reinforcement Learning at LEIR"
 date: 2022-06-12
 draft: false
-tags: ["publication", "conference proceedings", "cern"]
+tags: ["publication", "conference proceedings", "cern", "leir", "ipac"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

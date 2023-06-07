@@ -2,7 +2,7 @@
 title: "Autonomous Control of a Particle Accelerator using Deep Reinforcement Learning"
 date: 2020-12-12
 draft: false
-tags: ["publication", "workshop proceedings"]
+tags: ["publication", "workshop proceedings", "apple", "LNAL", "neurips workshop"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

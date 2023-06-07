@@ -2,7 +2,7 @@
 title: "Policy gradient methods for free-electron laser and terahertz source optimization and stabilization at the FERMI free-electron laser at Elettra"
 date: 2020-12-21
 draft: false
-tags: ["publication", "journal article"]
+tags: ["publication", "journal article", "fermi fel", "elettra-sincrotrone trieste", "University of Trieste", "prab"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

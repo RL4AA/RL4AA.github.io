@@ -2,7 +2,7 @@
 title: "First Steps Toward an Autonomous Accelerator, A Common Project Between DESY and KIT"
 date: 2021-05-24
 draft: false
-tags: ["publication", "conference proceedings"]
+tags: ["publication", "conference proceedings", "desy", "kit", "ipac"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false

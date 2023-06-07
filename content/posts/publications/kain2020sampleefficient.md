@@ -2,7 +2,7 @@
 title: "Sample-efficient reinforcement learning for CERN accelerator control"
 date: 2020-12-01
 draft: false
-tags: ["publication", "journal article", "cern"]
+tags: ["publication", "journal article", "cern", "awake", "linac4", "University of Trieste", "University of Malta", "prab"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
