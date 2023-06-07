@@ -2,7 +2,7 @@
 title: "Optimizing a superconducting radio-frequency gun using deep reinforcement learning"
 date: 2022-10-28
 draft: false
-tags: ["publication", "journal article", "simulation only", "hzb", "Universtiy of Kassel, "prab""]
+tags: ["publication", "journal article", "simulation only", "hzb", "Universtiy of Kassel", "prab"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
