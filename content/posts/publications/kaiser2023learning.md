@@ -2,7 +2,7 @@
 title: "Learning to Do or Learning While Doing: Reinforcement Learning and Bayesian Optimisation for Online Continuous Tuning"
 date: 2023-06-06
 draft: false
-tags: ["publication", "arXiv", "desy", "kit", "ares"]
+tags: ["publication", "arXiv", "desy", "kit", "ares", "td3", "simulation-trained", "real-world evaluation"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
