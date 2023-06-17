@@ -2,7 +2,7 @@
 title: "Using Neural Network Control Policies For Rapid Switching Between Beam Parameters in a Free Electron Laser"
 date: 2017-08-25
 draft: false
-tags: ["publication", "conference proceedings", "surrogate model", "Colorado State University", "Element Aero", "Fermilab", "LANL", "University of Twente", "neurips workshop"]
+tags: ["publication", "workshop proceedings", "surrogate model", "Colorado State University", "Element Aero", "Fermilab", "LANL", "University of Twente", "neurips workshop"]
 categories: "Publications"
 ShowToc: false
 TocOpen: false
