@@ -6,7 +6,8 @@ tags: ["publication", "phd thesis", "surrogate model", "Colorado State Universit
 categories: "Publications"
 ShowToc: false
 TocOpen: false
-cover: image: imgs/edelen2020neural.png
+cover: 
+    image: imgs/edelen2020neural.png
     alt: "Schematic for neural network control policy updates."
     caption: "Schematic for neural network control policy updates."
     relative: false
