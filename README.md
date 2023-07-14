@@ -8,6 +8,9 @@ To be announced!
 
 - 1st collaboration workshop on Reinforcement Learning for Autonomous Accelerators (RL4AA'23). [Github](https://github.com/RL4AA/RL4AA23), [Indico](https://indico.scc.kit.edu/event/3280/overview)
 
+- 2nd collaboration workshop on Reinforcement Learning for Autonomous Accelerators (RL4AA'24). [Github](https://github.com/RL4AA/RL4AA24)
+
+
 ## Contributing
 
 We welcome all enthusiastics and practitioner of reinforcement learning for particle acceelrators to contribute to the website.
