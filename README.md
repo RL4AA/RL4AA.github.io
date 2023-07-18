@@ -2,7 +2,7 @@
 
 ## Next Event
 
-To be announced!
+-  2nd collaboration workshop on Reinforcement Learning for Autonomous Accelerators (RL4AA'24). [Github](https://github.com/RL4AA/RL4AA24) the dates are fixed: 05.02.2024-07.02.2024!!!
 
 ## Events
 
