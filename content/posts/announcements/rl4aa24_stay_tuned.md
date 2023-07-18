@@ -13,8 +13,6 @@ cover:
     relative: false
 ---
 
-## Good News!
+## Good News - save the date!
 
-Our first workshop, RL4AA 2023, was very successful. Because of this we are hoping to hold the 2nd RL4AA workshop in spring 2024 in Salzburg, Austria.
-
-**STAY TUNED!** ... for further details.
+Our first workshop, RL4AA 2023, was very successful. Because of this we are hoping to hold the 2nd RL4AA workshop in spring 2024 in Salzburg, Austria in 05.02. - 07.02.2024. Details will follow soon.
