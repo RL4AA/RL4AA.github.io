@@ -13,7 +13,7 @@ cover:
     relative: false
 ---
 
-_** Simon Hirlaender, Lukas Lamminr, Giovanni Zevi Della Porta, Verena Kain**_
+_** Simon Hirlaender, Lukas Lamminger, Giovanni Zevi Della Porta, Verena Kain**_
 
 ## Abstract
 
