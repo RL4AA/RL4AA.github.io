@@ -8,8 +8,9 @@ ShowToc: false
 TocOpen: false
 cover:
     image: imgs/THPL038_f1.png
-    alt: "Overview of the orbit correction method."
-    caption: "Overview of the orbit correction method."
+    image: imgs/THPL038_f2.png
+    alt: "Overview of the steering method."
+    caption: "Overview of the steering method."
     relative: false
 ---
 
