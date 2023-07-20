@@ -7,7 +7,7 @@ categories: "Publications"
 ShowToc: false
 TocOpen: false
 cover:
-    image: imgs/chen2023orbit.png
+    image: imgs/THPL038_f1.pdf
     alt: "Overview of the orbit correction method."
     caption: "Overview of the orbit correction method."
     relative: false
