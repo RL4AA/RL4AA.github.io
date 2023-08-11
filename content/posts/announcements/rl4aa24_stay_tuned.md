@@ -1,5 +1,5 @@
 ---
-title: "The 2nd RL4AA workshop 2024 is being held 05.-07. February 2024 in Salzburg"
+title: "The 2nd RL4AA workshop 2024 will be held 05.-07. February 2024 in Salzburg"
 date: 2023-04-27
 draft: false
 tags: ["workshop", "event"]
@@ -8,10 +8,10 @@ weight: 10
 ShowToc: false
 TocOpen: false
 cover:
-    image: imgs/salzburg_stock_photo.jpg
-    alt: "Salzburg."
-    caption: "Salzburg."
-    relative: false
+  image: imgs/salzburg_stock_photo.jpg
+  alt: "Salzburg."
+  caption: "Salzburg."
+  relative: false
 ---
 
 ## Good News - save the date!
