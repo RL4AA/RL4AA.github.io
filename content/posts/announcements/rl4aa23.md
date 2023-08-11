@@ -7,10 +7,10 @@ categories: "Announcements"
 ShowToc: false
 TocOpen: false
 cover:
-    image: imgs/rl4aa23/rl4aa23_group_photo.jpeg
-    alt: "RL4AA23workshop photo"
-    caption: "RL4AA'23 Workshop Group Photo"
-    relative: false
+  image: imgs/rl4aa23/rl4aa23_group_photo.jpeg
+  alt: "RL4AA23workshop photo"
+  caption: "RL4AA'23 Workshop Group Photo"
+  relative: false
 ---
 
 Reinforcement learning is the most difficult learning paradigms to understand and to efficiently use, but it holds a lot of promise in the field of accelerator physics.
@@ -29,7 +29,10 @@ Most importantly, this the RL4AA’23 event was the official launch of the Reinf
 ![ ](/imgs/rl4aa23/DSC00067.JPG#center)
 ![ ](/imgs/rl4aa23/DSC00083.JPG#center)
 ![ ](/imgs/rl4aa23/DSC00081.JPG#center)
+![ ](/imgs/rl4aa23/DSC00056.JPG#center)
 ![ ](/imgs/rl4aa23/DSC00082.JPG#center)
+![ ](/imgs/rl4aa23/DSC00079.JPG#center)
 ![ ](/imgs/rl4aa23/DSC00109.JPG#center)
 ![ ](/imgs/rl4aa23/DSC00119.JPG#center)
+![ ](/imgs/rl4aa23/DSC00126.JPG#center)
 ![ ](/imgs/rl4aa23/DSC00130.JPG#center)
