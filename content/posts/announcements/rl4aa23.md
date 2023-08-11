@@ -7,7 +7,7 @@ categories: "Announcements"
 ShowToc: false
 TocOpen: false
 cover:
-  image: imgs/rl4aa23/rl4aa23_group_photo.jpeg
+  image: imgs/rl4aa23/rl4aa23_group_photo.jpg
   alt: "RL4AA23workshop photo"
   caption: "RL4AA'23 Workshop Group Photo"
   relative: false
@@ -26,13 +26,14 @@ Most importantly, this the RL4AA’23 event was the official launch of the Reinf
 
 ## Some event photos
 
-![ ](/imgs/rl4aa23/DSC00067.JPG#center)
-![ ](/imgs/rl4aa23/DSC00083.JPG#center)
-![ ](/imgs/rl4aa23/DSC00081.JPG#center)
-![ ](/imgs/rl4aa23/DSC00056.JPG#center)
-![ ](/imgs/rl4aa23/DSC00082.JPG#center)
-![ ](/imgs/rl4aa23/DSC00079.JPG#center)
-![ ](/imgs/rl4aa23/DSC00109.JPG#center)
-![ ](/imgs/rl4aa23/DSC00119.JPG#center)
-![ ](/imgs/rl4aa23/DSC00126.JPG#center)
-![ ](/imgs/rl4aa23/DSC00130.JPG#center)
+![ ](/imgs/rl4aa23/DSC00067.jpg#center)
+![ ](/imgs/rl4aa23/DSC00083.jpg#center)
+![ ](/imgs/rl4aa23/DSC00073.jpg#center)
+![ ](/imgs/rl4aa23/DSC00081.jpg#center)
+![ ](/imgs/rl4aa23/DSC00056.jpg#center)
+![ ](/imgs/rl4aa23/DSC00082.jpg#center)
+![ ](/imgs/rl4aa23/DSC00079.jpg#center)
+![ ](/imgs/rl4aa23/DSC00109.jpg#center)
+![ ](/imgs/rl4aa23/DSC00119.jpg#center)
+![ ](/imgs/rl4aa23/DSC00126.jpg#center)
+![ ](/imgs/rl4aa23/DSC00130.jpg#center)
