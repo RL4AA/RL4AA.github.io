@@ -1,5 +1,5 @@
 ---
-title: "The 2nd RL4AA workshop 2024 will be held 05.-07. February 2024 in Salzburg"
+title: "📍 The 2nd RL4AA workshop 2024 will be held 05.-07. February 2024 in Salzburg"
 date: 2023-04-27
 draft: false
 tags: ["workshop", "event"]
