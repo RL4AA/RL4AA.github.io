@@ -16,7 +16,7 @@ cover:
 
 ## Announcing RL4AA'24 - Registration is open!
 
-Following up on the very successful RL4AA'23 workshop in Karlruhe earlier this year, we are excited to announce the 2nd RL4AA workshop RL4AA'24, which will be held in Salzburg, Austria, from 05 - 07 February 2024. The workshop will be hosted at the [Paris Lodron University of Salzburg](https://www.plus.ac.at). We are looking forward to an exciting workshop with many interesting talks and discussions on reinforcement learning for autonomous particle accelerators and hope to see you all in Salzburg!
+Following up on the very successful RL4AA'23 workshop in Karlruhe earlier this year, we are excited to announce the 2nd RL4AA workshop RL4AA'24, which will be held in Salzburg, Austria, from 05 - 07 February 2024. The workshop will be hosted at the [Paris Lodron University of Salzburg](https://www.plus.ac.at/?lang=en). We are looking forward to an exciting workshop with many interesting talks and discussions on reinforcement learning for autonomous particle accelerators and hope to see you all in Salzburg!
 
 The official workshop website is available at [https://rl4aa.github.io/RL4AA24/](https://rl4aa.github.io/RL4AA24/).
 
