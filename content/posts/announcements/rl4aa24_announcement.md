@@ -1,5 +1,5 @@
 ---
-title: "📍 The 2nd RL4AA workshop 2024 will be held 05 - 07 February 2024 in Salzburg, Austria"
+title: "📍 Registration is now open for RL4AA'24 taking place 05 - 07 February 2024 in Salzburg, Austria"
 date: 2023-08-18
 draft: false
 tags: ["workshop", "event"]
