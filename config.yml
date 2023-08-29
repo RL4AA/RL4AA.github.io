@@ -7,19 +7,18 @@ params:
   homeInfoParams:
     Title: RL4AA Collaboration
     Content: |
-      Collaboration on Reinforcement Learning for Autonomous Accelerator
-      
+      Collaboration on Reinforcement Learning for Autonomous Accelerators
+
       &nbsp;
 
       ## Find your way around the site
-      
+
       - **[Announcements](/categories/announcements)** of new events and information
       - **[Publications](/categories/publications/)** about RL applied for particle accelerators
       - **[Contact](/contact/)** us to contribute or collaborate
       - **[Search](/search/)** for keywords directly 
       - **[Archive](/archives)** to see all the posts
-      
-  
+
   SocialIcons:
     - name: github
       url: https://github.com/RL4AA
@@ -42,7 +41,7 @@ params:
   description: "Reinforcement Learning for Autonomous Accelerator Collaboration - https://github.com/RL4AA"
   googleAnalytics: "G-B7HRFWK04B"
 
-menu: 
+menu:
   main:
     - identifier: announcements
       name: Announcements
@@ -66,10 +65,10 @@ menu:
       weight: 5
 
 outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON # is necessary
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
 
 markup:
   goldmark:

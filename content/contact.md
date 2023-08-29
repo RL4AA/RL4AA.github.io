@@ -6,7 +6,7 @@ summary: contact
 
 ## About us
 
-Organizers of the 1st RL4AA workshop and the maintainers of the RL4AA collaboration site.
+Organizers of the 1st RL4AA workshop and the maintainers of the RL4AA collaboration.
 
 - [Andrea Santamaria Garcia](https://github.com/ansantam)
 - [Simon Hirländer](https://github.com/MathPhysSim)
