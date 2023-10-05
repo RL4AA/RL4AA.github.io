@@ -15,7 +15,7 @@ Organizers of the 1st RL4AA workshop and the maintainers of the RL4AA collaborat
 
 ## Contributing
 
-We welcome all enthusiastics and practitioner of reinforcement learning for particle acceelrators to contribute to the website. Please visit the [Github Repository](https://github.com/RL4AA/RL4AA.github.io) for more information.
+We welcome all enthusiastic and practitioner of reinforcement learning for particle accelerators to contribute to the website. Please visit the [GitHub Repository](https://github.com/RL4AA/RL4AA.github.io) for more information.
 
 ### Announce new publications
 
