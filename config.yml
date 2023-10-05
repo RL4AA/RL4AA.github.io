@@ -7,9 +7,9 @@ params:
   homeInfoParams:
     Title: RL4AA Collaboration
     Content: |
-      Collaboration on Reinforcement Learning for Autonomous Accelerators
-
       <img src="imgs/rl4aa_logo.png" align="right" width="25%"/>
+
+      Collaboration on Reinforcement Learning for Autonomous Accelerators
 
       &nbsp;
 
