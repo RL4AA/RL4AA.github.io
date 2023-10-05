@@ -23,7 +23,7 @@ We try to maintain a comprehensive list of the publications in the RL for accele
 
 If you have a recent publication fitting for the topic, or you find any paper missing, you could [start an issue](https://github.com/RL4AA/RL4AA.github.io/issues/new?assignees=&labels=publication&template=new-publication.md&title=Add+new+publication+%5Bfill+a+short+title+here%5D) and fill in the essential information.
 
-We will update the websites accordingling.
+We will update the websites accordingly.
 
 ### Share your knowledge
 
