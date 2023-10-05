@@ -7,8 +7,6 @@ params:
   homeInfoParams:
     Title: RL4AA Collaboration
     Content: |
-      <img src="imgs/rl4aa_logo.png" align="right" width="25%"/>
-
       Collaboration on Reinforcement Learning for Autonomous Accelerators
 
       &nbsp;
@@ -20,6 +18,9 @@ params:
       - **[Contact](/contact/)** us to contribute or collaborate
       - **[Search](/search/)** for keywords directly 
       - **[Archive](/archives)** to see all the posts
+
+  label:
+    icon: "imgs/rl4aa_logo.png"
 
   SocialIcons:
     - name: github
