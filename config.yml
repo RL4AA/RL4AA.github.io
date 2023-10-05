@@ -1,6 +1,6 @@
 baseURL: https://RL4aa.github.io/
 languageCode: en-us
-title: <img src="imgs/rl4aa_logo.png"/> RL4AA Collaboration | Homepage
+title: RL4AA Collaboration | Homepage
 theme: PaperMod
 
 params:
