@@ -24,3 +24,7 @@ The call for abstracts for the RL4AA'24 workshop, taking place 05 - 07 February 
 For more information on the workshop, please see the official workshop website: [https://rl4aa.github.io/RL4AA24/](https://rl4aa.github.io/RL4AA24/)
 
 To get directly to registration, please visit: [https://indico.scc.kit.edu/event/3746/](https://indico.scc.kit.edu/event/3746/)
+
+We are looking forward to your submissions and to seeing you in Salzburg!
+
+Merry Christmas and a Happy New Year! 🎄🎆
