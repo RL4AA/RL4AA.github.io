@@ -1,5 +1,5 @@
 ---
-title: "📍 RL4AA'24 call for abstracts extended to 5 January. Exciting keynote speakers announced. Register until 5 January!"
+title: "📍 RL4AA'24 call for abstracts extended to 5 January. Exciting keynote speakers announced. Register now!"
 date: 2023-12-22
 draft: false
 tags: ["workshop", "event"]
