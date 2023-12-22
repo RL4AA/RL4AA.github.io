@@ -1,10 +1,9 @@
 ---
-title: "📍 Registration is now open for RL4AA'24 taking place 05 - 07 February 2024 in Salzburg, Austria"
+title: "Registration is now open for RL4AA'24 taking place 05 - 07 February 2024 in Salzburg, Austria"
 date: 2023-08-18
 draft: false
 tags: ["workshop", "event"]
 categories: "Announcements"
-weight: 10
 ShowToc: false
 TocOpen: false
 cover:
