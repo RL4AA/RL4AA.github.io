@@ -8,7 +8,7 @@ weight: 10
 ShowToc: false
 TocOpen: false
 cover:
-  image: imgs/rl4aa24_flyer_2.png
+  image: imgs/rl4aa24_poster.png
   alt: "RL4AA'24 flyer."
   caption: "RL4AA'24 flyer."
   relative: false
