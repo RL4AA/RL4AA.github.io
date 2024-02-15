@@ -20,7 +20,7 @@ In 2 highly informative keynotes by [Antonin Raffin](https://araffin.github.io/)
 The workshop also featured a hands-on tutorial to introduce participants to two advanced topics in reinforcement learning: Meta Reinforcement Learning and Gaussian Process-based Model Predictive Control.
 Most importantly, the workshop provided a platform for many fruitful discussions and networking opportunities.
 
-We would like to thank all the participants, speakers, and the organizing team for making this workshop a success!
+The organizers, [Simon Hirlaender](https://mathphyssim.github.io/), [Annika Eichler](https://ai.desy.de/people/eichler.html), [Jan Kaiser](https://jank324.github.io/), [Sabrina Pochaba](https://www.salzburgresearch.at/en/person/pochaba-sabrina/), [Andrea Santamaria Garcia](https://ansantam.github.io/) and [Chenran Xu](https://cr-xu.github.io/), would like to thank all the participants, speakers, and the organizing team for making this workshop a success!
 
 Seeing the enthusiasm and growth of the RL4AA community, we are looking forward to seeing you at the next RL4AA workshop!
 Stay tuned for the announcement! 🚀
@@ -47,6 +47,7 @@ Stay tuned for the announcement! 🚀
 ![ ](/imgs/rl4aa24/53511530393_c7be4a9976_o.jpg#center)
 ![ ](/imgs/rl4aa24/53511681839_c924431987_o.jpg#center)
 ![ ](/imgs/rl4aa24/DSC01375.jpg#center)
+![ ](/imgs/rl4aa24/DSC01379.jpg#center)
 ![ ](/imgs/rl4aa24/53514712763_ce74a7b8f5_o.jpg#center)
 ![ ](/imgs/rl4aa24/rl4aa24-salzburg-2024_53514539131_o.jpg)
 ![ ](/imgs/rl4aa24/53514538911_114b5ac9e1_o.jpg#center)
