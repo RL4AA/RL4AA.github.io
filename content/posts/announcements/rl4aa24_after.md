@@ -14,13 +14,13 @@ cover:
 ---
 
 From 5 to 7 February 2024, [IDA Lab](https://www.plus.ac.at/aihi/der-fachbereich/ida-lab/) at the [Paris Lodron University of Salzburg](https://www.plus.ac.at/?lang=en) kindly hosted the RL4AA community for the 2nd workshop on Reinforcement Learning for Autonomous Accelerators ([RL4AA'24](https://rl4aa.github.io/RL4AA24/)).
-With over 50 participants from more than 10 different countries, we are excited to see that our community is growing and that the interest in reinforcement learning for accelerators is increasing.
+With over 50 participants from more than 10 different countries, we are excited to see that our community is growing and that the interest in reinforcement learning for particle accelerators is increasing.
 In a total of 19 talks, we got to hear about the latest developments and impressive results in the field of reinforcement learning for particle accelerators.
-In 2 highly informative keynotes by [Antonin Raffin](https://araffin.github.io/) (German Aerospace Center) and [Felix Berkenkamp](https://berkenkamp.me/) (Bosch Center for AI), we learned about real-world reinforcement learning, both in application and in research, from two experts in the field of reinforcement learning.
+In 2 highly informative keynotes by [Antonin Raffin](https://araffin.github.io/) (German Aerospace Center) and [Felix Berkenkamp](https://berkenkamp.me/) (Bosch Center for AI), we learned about practical aspects of real-world reinforcement learning, both in application and in research, from two experts in the field of reinforcement learning.
 The workshop also featured a hands-on tutorial to introduce participants to two advanced topics in reinforcement learning: Meta Reinforcement Learning and Gaussian Process-based Model Predictive Control.
-Most importantly, the workshop provided a platform for many fruitful discussions and networking opportunities.
+Most importantly, the workshop provided an excellent platform for many fruitful discussions and networking opportunities.
 
-The organizers, [Simon Hirlaender](https://mathphyssim.github.io/), [Annika Eichler](https://ai.desy.de/people/eichler.html), [Jan Kaiser](https://jank324.github.io/), [Sabrina Pochaba](https://www.salzburgresearch.at/en/person/pochaba-sabrina/), [Andrea Santamaria Garcia](https://ansantam.github.io/) and [Chenran Xu](https://cr-xu.github.io/), would like to thank all the participants, speakers, and the organizing team for making this workshop a success!
+The organizers, [Simon Hirlaender](https://mathphyssim.github.io/), [Annika Eichler](https://ai.desy.de/people/eichler.html), [Jan Kaiser](https://jank324.github.io/), [Sabrina Pochaba](https://www.salzburgresearch.at/en/person/pochaba-sabrina/), [Andrea Santamaria Garcia](https://ansantam.github.io/) and [Chenran Xu](https://cr-xu.github.io/), would like to thank all the participants, speakers, and the local organizing team for making this workshop a success!
 
 Seeing the enthusiasm and growth of the RL4AA community, we are looking forward to seeing you at the next RL4AA workshop!
 Stay tuned for the announcement! 🚀
