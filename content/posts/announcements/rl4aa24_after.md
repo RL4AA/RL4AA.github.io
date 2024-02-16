@@ -1,7 +1,7 @@
 ---
 title: "Successful RL4AA'24 workshop in Salzburg: Thanks everyone for joining!"
-date: 2024-02-09
-draft: true
+date: 2024-02-16
+draft: false
 tags: ["rl4aa24", "workshop", "event", "university of salzburg"]
 categories: "Announcements"
 ShowToc: false
@@ -14,13 +14,19 @@ cover:
 ---
 
 From 5 to 7 February 2024, [IDA Lab](https://www.plus.ac.at/aihi/der-fachbereich/ida-lab/) at the [Paris Lodron University of Salzburg](https://www.plus.ac.at/?lang=en) kindly hosted the RL4AA community for the 2nd workshop on Reinforcement Learning for Autonomous Accelerators ([RL4AA'24](https://rl4aa.github.io/RL4AA24/)).
-With over 50 participants from more than 10 different countries, we are excited to see that our community is growing and that the interest in reinforcement learning for particle accelerators is increasing.
-In a total of 19 talks, we got to hear about the latest developments and impressive results in the field of reinforcement learning for particle accelerators.
-In 2 highly informative keynotes by [Antonin Raffin](https://araffin.github.io/) (German Aerospace Center) and [Felix Berkenkamp](https://berkenkamp.me/) (Bosch Center for AI), we learned about practical aspects of real-world reinforcement learning, both in application and in research, from two experts in the field of reinforcement learning.
-The workshop also featured a hands-on tutorial to introduce participants to two advanced topics in reinforcement learning: Meta Reinforcement Learning and Gaussian Process-based Model Predictive Control.
-Most importantly, the workshop provided an excellent platform for many fruitful discussions and networking opportunities.
 
-The organizers, [Simon Hirlaender](https://mathphyssim.github.io/), [Annika Eichler](https://ai.desy.de/people/eichler.html), [Jan Kaiser](https://jank324.github.io/), [Sabrina Pochaba](https://www.salzburgresearch.at/en/person/pochaba-sabrina/), [Andrea Santamaria Garcia](https://ansantam.github.io/) and [Chenran Xu](https://cr-xu.github.io/), would like to thank all the participants, speakers, and the local organizing team for making this workshop a success!
+With over 50 participants from more than 10 different countries, we are excited to see that our community is growing and that the interest in reinforcement learning (for particle accelerators) is increasing.
+In a total of 19 talks, we got to hear about the latest developments and impressive results in the field.
+
+In two excellent and highly informative keynotes by [Antonin Raffin](https://araffin.github.io/) (German Aerospace Center) and [Felix Berkenkamp](https://berkenkamp.me/) (Bosch Center for AI), we learned about practical aspects of real-world reinforcement learning, both in application and in research.
+
+Several international accelerator facilities, such as [CERN](https://home.cern), [GSI Helmholtz Centre for Heavy Ion Research](https://www.gsi.de/en/start/news), [SLAC National Accelerator Laboratory](https://www6.slac.stanford.edu), [DESY](https://www.desy.de/index_eng.html), [Karlsruhe Institute of Technology](https://www.kit.edu/english/index.php) and others, gave insights into their current research. The workshop concluded with PhD student presentations on reinforcement learning and optimization, alongside showcases of industrial applications, for example by [Fraunhofer Austria](https://www.fraunhofer.at/en.html) in a contributed talks session.
+
+The workshop included a fresh and engaging hands-on tutorial covering two promising reinforcement learning topics at the example of an accelerator application: Meta-reinforcement learning and Gaussian process-based reinforcement learning.
+
+Moreover, the workshop provided an excellent platform for many fruitful discussions and networking opportunities.
+
+The organizers, [Simon Hirlaender](https://mathphyssim.github.io/), [Annika Eichler](https://ai.desy.de/people/eichler.html), [Jan Kaiser](https://jank324.github.io/), [Sabrina Pochaba](https://www.salzburgresearch.at/en/person/pochaba-sabrina/), [Andrea Santamaria Garcia](https://ansantam.github.io/) and [Chenran Xu](https://cr-xu.github.io/), would like to thank all the participants, speakers, the local organizing team and everyone else involved for making this workshop a success!
 
 Seeing the enthusiasm and growth of the RL4AA community, we are looking forward to seeing you at the next RL4AA workshop!
 Stay tuned for the announcement! 🚀
@@ -32,6 +38,7 @@ Stay tuned for the announcement! 🚀
 - [GitHub repository](https://github.com/RL4AA/rl4aa24-tutorial) for the hands-on tutorial on Meta RL and GP-MPC
 - [Photo album](https://flic.kr/s/aHBqjBd84t) of pictures from the workshop
 - [Discord server](https://discord.gg/QtBMqsjWH2) for the RL4AA community
+- Talk recordings are coming ...
 
 ## Some photos from the workshop
 
