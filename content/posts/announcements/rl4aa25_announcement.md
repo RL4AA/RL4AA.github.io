@@ -33,7 +33,7 @@ We are delighted to announce the ["3rd International Workshop on Reinforcement L
 - [Registration](https://indico.scc.kit.edu/event/4216/registrations/764/):
   - **Open right now!**
   - Registration deadline: 7 March 2025
-  - Thanks to generous sponsorship, there are **no registration fees!**
+  - Thanks to generous sponsorships, there are **no registration fees!**
 - Workshop: 2 - 4 April 2025, Hamburg, Germany
 
 Please join us if you have worked in reinforcement learning or you are simply interested and would like to start! This workshop is intended to foster discussions and to start interesting projects together.
