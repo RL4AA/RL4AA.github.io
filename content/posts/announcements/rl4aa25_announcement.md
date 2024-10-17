@@ -1,6 +1,6 @@
 ---
 title: "Announcing RL4AA'25 taking place 2 - 4 April 2025 in Hamburg, Germany"
-date: 2023-10-17
+date: 2024-10-17
 draft: false
 tags: ["workshop", "event"]
 categories: "Announcements"
