@@ -15,7 +15,7 @@ params:
 
       - **[Announcements](/categories/announcements)** of new events and information
       - **[Publications](/categories/publications/)** about RL applied for particle accelerators
-      - **[Contact](/contact/)** us to contribute or collaborate
+      - **[Contact](/aboutus/)** us to contribute or collaborate
       - **[Search](/search/)** for keywords directly 
       - **[Archive](/archives)** to see all the posts
 
@@ -62,9 +62,9 @@ menu:
       name: Archive
       url: /archives/
       weight: 4
-    - identifier: contact
-      name: Contact
-      url: /contact/
+    - identifier: aboutus
+      name: About Us
+      url: /aboutus/
       weight: 5
 
 outputs:

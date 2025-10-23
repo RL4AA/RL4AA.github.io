@@ -1,18 +1,21 @@
 ---
-title: "Contact Information"
-url: "/contact/"
-summary: contact
+title: "About Us"
+url: "/aboutus/"
+summary: aboutus
 ---
 
-## About us
+## Organisation
 
-Organizers of the RL4AA workshop and the maintainers of the RL4AA collaboration:
+### Steering committee
 
 - [Andrea Santamaria Garcia](https://ansantam.github.io)
-- [Simon Hirländer](https://mathphyssim.github.io)
 - [Jan Kaiser](https://jank324.github.io)
 - [Chenran Xu](https://cr-xu.github.io)
+
+### Advisory panel
+
 - [Annika Eichler](https://www.linkedin.com/in/annika-eichler-076854316/)
+- [Simon Hirländer](https://mathphyssim.github.io)
 
 ## Contributing
 
