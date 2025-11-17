@@ -1,6 +1,6 @@
 ---
 title: "Announcing RL4AA'26 taking place 30 March - 1 April 2026 in Liverpool, UK"
-date: 2025-11-14
+date: 2025-11-17
 draft: false
 tags: ["workshop", "event"]
 categories: "Announcements"
